@@ -1,0 +1,2 @@
+# House-Price-Prediction
+Artificial neural networks (ANN) or connectionist systems are computing systems that are inspired by, but not necessarily identical to, the biological neural networks that constitute animal brains. Such systems “learn” to perform tasks by considering examples, generally without being programmed with any task-specific rules. Deep Neural networks are just ANN’s with multiple hidden layers.
